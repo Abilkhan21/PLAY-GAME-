@@ -18,7 +18,7 @@
     <section class="games">
         <h2>Наши игры</h2>
         <div class="game">
-            <img src="images/game1.jpg" alt="Game 1">
+            <img src="https://github.com/Abilkhan21/PLAY-GAME-/blob/main/images/image.jpg" alt="Game 1">
             <h3>Игра 1</h3>
             <p>Описание игры 1</p>
             <button>Купить</button>
