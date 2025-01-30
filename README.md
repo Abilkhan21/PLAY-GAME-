@@ -24,7 +24,7 @@
             <button>Купить</button>
         </div>
         <div class="game">
-            <img src="images/game2.jpg" alt="Game 2">
+            <img src="https://github.com/Abilkhan21/PLAY-GAME-/blob/main/images/19587_800x480.jpg" alt="Game 2">
             <h3>Игра 2</h3>
             <p>Описание игры 2</p>
             <button>Купить</button>
