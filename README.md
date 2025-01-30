@@ -9,7 +9,7 @@
 <body>
     <header>
         <div class="logo">
-            <img src="" alt="Play Game Logo">
+            <img src="https://github.com/Abilkhan21/PLAY-GAME-/blob/main/images/unnamed.jpg" alt="Play Game Logo">
         </div>
         <h1>Добро пожаловать на Play Game!</h1>
         <p>Лучшие игры для тебя!</p>
